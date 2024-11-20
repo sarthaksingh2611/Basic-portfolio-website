@@ -19,3 +19,4 @@ Adding JavaScript for interactivity.
 Integrating a backend for contact form submissions.
 Hosting the site online with a custom domain.
 Feel free to explore, provide feedback, or contribute! 😊
+![Screenshot 2024-11-20 210101](https://github.com/user-attachments/assets/52915f74-30bb-4415-8f9f-a61f19541764)
